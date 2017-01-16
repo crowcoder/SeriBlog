@@ -15,7 +15,7 @@ namespace SeriBlogger
 
         public void Emit(LogEvent logEvent)
         {
-            //Console.ForegroundColor = ConsoleColor.Black;
+            Console.ForegroundColor = ConsoleColor.Black;
             Console.WriteLine(logEvent.RenderMessage(_formatProvider));
             Console.ResetColor();
         }
