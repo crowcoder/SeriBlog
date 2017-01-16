@@ -1,0 +1,7 @@
+C:\workspaces\SeriBlog\SeriBlogger\bin\Debug\SeriBlogger.dll
+C:\workspaces\SeriBlog\SeriBlogger\bin\Debug\SeriBlogger.pdb
+C:\workspaces\SeriBlog\SeriBlogger\bin\Debug\Serilog.dll
+C:\workspaces\SeriBlog\SeriBlogger\bin\Debug\Serilog.xml
+C:\workspaces\SeriBlog\SeriBlogger\obj\Debug\SeriBlogger.csprojResolveAssemblyReference.cache
+C:\workspaces\SeriBlog\SeriBlogger\obj\Debug\SeriBlogger.dll
+C:\workspaces\SeriBlog\SeriBlogger\obj\Debug\SeriBlogger.pdb

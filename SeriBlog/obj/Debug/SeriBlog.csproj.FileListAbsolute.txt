@@ -1,0 +1,10 @@
+C:\workspaces\SeriBlog\SeriBlog\bin\Debug\SeriBlog.exe.config
+C:\workspaces\SeriBlog\SeriBlog\bin\Debug\SeriBlog.exe
+C:\workspaces\SeriBlog\SeriBlog\bin\Debug\SeriBlog.pdb
+C:\workspaces\SeriBlog\SeriBlog\bin\Debug\SeriBlogger.dll
+C:\workspaces\SeriBlog\SeriBlog\bin\Debug\Serilog.dll
+C:\workspaces\SeriBlog\SeriBlog\bin\Debug\SeriBlogger.pdb
+C:\workspaces\SeriBlog\SeriBlog\bin\Debug\Serilog.xml
+C:\workspaces\SeriBlog\SeriBlog\obj\Debug\SeriBlog.csprojResolveAssemblyReference.cache
+C:\workspaces\SeriBlog\SeriBlog\obj\Debug\SeriBlog.exe
+C:\workspaces\SeriBlog\SeriBlog\obj\Debug\SeriBlog.pdb
