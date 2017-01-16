@@ -15,7 +15,7 @@ namespace SeriBlog
 
             var loggedby = new { Name = Environment.UserName, Time = DateTimeOffset.Now };
 
-            Log.Information("Testing Stealth Console Sink {0}", loggedby);
+            Log.Information("Testing Stealth Console Sink {@loggedby}", loggedby);
 
             Console.ReadKey();
         }
